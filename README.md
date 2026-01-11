@@ -9,8 +9,7 @@ This repository contains a **complete, end-to-end payment gateway system** with:
 The project is built using **Node.js, PostgreSQL, React (Vite), and Docker**, and is fully **Dockerized** so that anyone can run it easily by cloning this repository.
 
 🔗 **GitHub Repository:**  
-https://github.com/SriSurya06/Payment-Gateway-with-Multi-Method-Processing-and-Hosted-Checkout
-
+https://github.com/SriSurya06/Build-Payment-Gateway-with-Multi-Method-Processing-and-Hosted-Checkout
 ---
 
 ## 🚀 Features
@@ -60,7 +59,7 @@ Make sure the following are installed on your system:
 ## ⬇️ Clone the Repository
 
 ```bash
-git clone https://github.com/SriSurya06/Payment-Gateway-with-Multi-Method-Processing-and-Hosted-Checkout
+git clone https://github.com/SriSurya06/Build-Payment-Gateway-with-Multi-Method-Processing-and-Hosted-Checkout
 cd Payment-Gateway-with-Multi-Method-Processing-and-Hosted-Checkout
 ```
 
@@ -280,3 +279,4 @@ Click the Logout button to clear credentials and return to login page.
 This project demonstrates a **complete payment gateway workflow** with backend APIs, database persistence, hosted checkout, merchant dashboard, and Dockerized deployment.
 
 It is **fully functional**.
+
